@@ -30,6 +30,3 @@ This project aims to develop a neural network-based system capable of detecting 
 
 This project demonstrates the power of neural networks in handling multilingual text classification and provides a solid foundation for future improvements in the field.
 
---- 
-
-You can tailor this further to match the specific details you want to highlight on your GitHub page!
